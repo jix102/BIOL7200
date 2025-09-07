@@ -2,3 +2,4 @@
 # find_homologs.sh (starter)
 # usage: ./find_homologs.sh query.fna subject.fna out.tsv
 set -euo pipefail
+# temporary line to be reverted
